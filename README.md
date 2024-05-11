@@ -48,5 +48,29 @@ $ touch "weekly_assignments/README.md" && touch "weekly_assignments/wk1/$Q_NAME/
 
 # Hackathons
 
+- Create a dir `hackathons`
+- There will be 2 hackathons in this program, so create dirs `hackathons/hack1` and `hackathons/hack2`
+- For each hackathon, a team will be given a set of questions to solve
+    - Each person in the team must pick one of the problems and submit an explanation of the approach the team took (
+      including what worked, what didn't work, optimizations etc)
+    - The hackathon question a student must explain will be decided by student's number from the [group page]() % number
+      of hackathon questions
+        - So, if the student is number 3 in the group and there are 5 questions in the hackathon, the student will
+          explain `3 % 5 = question 3 of the hackathon`
+    - The team will also submit one commit hash to this [form](). All the explanations from each team member must be
+      contained in the repo at this commit hash.
+
+You can set up hackathons via command line like so
+
+```bash
+$ mkdir "hackathons" && mkdir "hackathons/hack1" && mkdir "hackathons/hack2"
+``` 
+
 # Project
+
+- Create a dir `project`
+- Groups can set up their project within the `project` dir however they choose but the project should be runnable
+  locally
+- Before the deadline for submitting projects, the team will submit a hash. During the demo, the team will build their
+  projects from that hash and we will use that for the assessment
 
