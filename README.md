@@ -27,7 +27,7 @@
       e.g. [sample link](https://leetcode.com/problems/two-sum/submissions/1255480781/))
     - These entries will be pushed in one commit. Multiple commits are fine too.
     - Before the 6pm WAT on Friday of Week 1, the solver will submit the commit hash that contains all these files to
-      this [form]().
+      this [form](https://bit.ly/wdsapsubmissionform).
         - To get the commit hash, get the url of the last commit (
           e.g. https://github.com/wolfstation/wdsap-2024-group0/commit/ae7d6b51dae8926a966915d8b380b28990601191) and get
           the alphanumeric value after "commit": `ae7d6b51dae8926a966915d8b380b28990601191`
@@ -58,7 +58,7 @@ $ touch "weekly_assignments/README.md" && touch "weekly_assignments/wk1/$Q_NAME/
       of hackathon questions
         - So, if the student is number 3 in the group and there are 5 questions in the hackathon, the student will
           explain `3 % 5 = question 3 of the hackathon`
-    - The team will also submit one commit hash to this [form](). All the explanations from each team member must be
+    - The team will also submit one commit hash to this [form](https://bit.ly/wdsapsubmissionform). All the explanations from each team member must be
       contained in the repo at this commit hash.
 
 You can set up hackathons via command line like so
