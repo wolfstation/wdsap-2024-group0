@@ -1,8 +1,8 @@
 # wdsap-2024-group0
 
-# Weekly Assignments
+# Assessment Instructions
 
-## Setup Instructions
+## Weekly Assignments
 
 - Create a dir `weekly_assignments`
 - For each week create a `weekly_assignments/wk<num>` dir (e.g. `wk1`, `wk5`)
@@ -43,7 +43,7 @@ $ touch "weekly_assignments/README.md" && touch "weekly_assignments/wk1/$Q_NAME/
 
 [^test-cases]: You don't have to get all the testcases to submit your assignment, simply do your best
 
-# Hackathons
+## Hackathons
 
 - Create a dir `hackathons`
 - There will be 2 hackathons in this program, so create dirs `hackathons/hack1` and `hackathons/hack2`
@@ -63,7 +63,7 @@ You can set up hackathons via command line like so
 $ mkdir "hackathons" && mkdir "hackathons/hack1" && mkdir "hackathons/hack2"
 ``` 
 
-# Project
+## Project
 
 - Create a dir `project`
 - Groups can set up their project within the `project` dir however they choose but the project should be runnable
@@ -71,3 +71,6 @@ $ mkdir "hackathons" && mkdir "hackathons/hack1" && mkdir "hackathons/hack2"
 - Before the deadline for submitting projects, the team will submit a hash. During the demo, the team will build their
   projects from that hash and we will use that for the assessment
 
+# Relevant Links
+- [Create markdown tables](https://www.tablesgenerator.com/markdown_tables)
+- [Generate gitignore files](https://www.toptal.com/developers/gitignore/)
