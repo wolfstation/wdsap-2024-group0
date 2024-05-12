@@ -1,5 +1,9 @@
 # wdsap-2024-group0
 
+- [Weekly Assignments](#weekly-assignments)
+- [Hackathons](#hackathons)
+- [Project](#project)
+
 # Assessment Instructions
 
 ## Weekly Assignments
