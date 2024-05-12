@@ -10,7 +10,14 @@
 
 - Create a dir `weekly_assignments`
 - For each week create a `weekly_assignments/wk<num>` dir (e.g. `wk1`, `wk5`)
-- For each question create a dir for it `weekly_assignments/wk<num>/question_name`
+- Each week, the team will be given a set of questions to solve
+    - Each person in the team must pick one of the problems, solve it and submit an explanation of the approach they took (
+      including what worked, what didn't work, optimizations etc)
+    - The question a student solves each week will be decided by the student's number from the [group page](https://docs.google.com/spreadsheets/d/115ZbiMFjQK_JwDPWpgBT3JjGaMTUgeN3wBUYteitAeM/edit?usp=sharing) % number
+      of questions
+        - So, if the student is number 3 in the group and there are 5 questions during that week, the student will
+          solve and explain `3 % 5 = question 3 of the assignment set`
+- For each question, the student solving will create a dir for it `weekly_assignments/wk<num>/question_name`
     - For example, say the question you're asked to solve
       is [Two Sum](https://leetcode.com/problems/two-sum/description/)
       in week 1, you'll create a `weekly_assignments/wk1/two_sum` dir
@@ -54,7 +61,7 @@ $ touch "weekly_assignments/README.md" && touch "weekly_assignments/wk1/$Q_NAME/
 - For each hackathon, a team will be given a set of questions to solve
     - Each person in the team must pick one of the problems and submit an explanation of the approach the team took (
       including what worked, what didn't work, optimizations etc)
-    - The hackathon question a student must explain will be decided by student's number from the [group page]() % number
+    - The hackathon question a student must explain will be decided by student's number from the [group page](https://docs.google.com/spreadsheets/d/115ZbiMFjQK_JwDPWpgBT3JjGaMTUgeN3wBUYteitAeM/edit?usp=sharing) % number
       of hackathon questions
         - So, if the student is number 3 in the group and there are 5 questions in the hackathon, the student will
           explain `3 % 5 = question 3 of the hackathon`
