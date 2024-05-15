@@ -6,6 +6,8 @@
 
 # Assessment Instructions
 
+When the groups are confirmed, each person will be added to a private repo (with a similar setup to this one) for their group.
+
 ## Weekly Assignments
 
 - Create a dir `weekly_assignments`
