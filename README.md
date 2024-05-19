@@ -1,8 +1,8 @@
 # wdsap-2024-group0
 
-- [Weekly Assignments](#weekly-assignments)
-- [Hackathons](#hackathons)
-- [Project](#project)
+- [Weekly Assignments](#how-to-submit-weekly-assignments)
+- [Hackathons](#how-to-submit-hackathons)
+- [Project](#how-to-submit-a-project)
 
 # Introduction
 
@@ -110,16 +110,26 @@ including what worked, what didn't work, optimizations)
       Your explanation
       ```
 3. Follow steps 5-7, but consider the following
-   - The file in question here is `hackathon/hack1/two_sum.md`
-   - The deadline will be communicated on the hackathon page
+    - The file in question here is `hackathon/hack1/two_sum.md`
+    - The deadline will be communicated on the hackathon page
 
-## Project
+## How to Submit a Project
 
-- Create a dir `project`
+1. Add the project code to the `project` dir
+2. Commit the project code
+3. Before the deadline of the project, submit the commit hash that contains all the files to
+   this [form](https://bit.ly/wdsapsubmissionform).
+    - To get the commit hash, get the url of the last commit (
+      e.g. https://github.com/wolfstation/wdsap-2024-group0/commit/ae7d6b51dae8926a966915d8b380b28990601191) and get
+      the alphanumeric value after "commit": `ae7d6b51dae8926a966915d8b380b28990601191`
+
+Note the following:
+
 - Groups can set up their project within the `project` dir however they choose but the project should be runnable
   locally
 - Before the deadline for submitting projects, the team will submit a hash. During the demo, the team will build their
   projects from that hash and we will use that for the assessment
+- The whole team should collaborate for this project. We may ask questions from anyone on the team during the demo
 
 # Relevant Links
 
