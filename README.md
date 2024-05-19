@@ -40,7 +40,7 @@ These instructions make some assumptions
     - Also note that every question must have its own folder within each week. In this case we have `two_sum`
 4. Create `weekly_assignments/wk1/two_sum/two_sum.md` and add the following
     - Add your name, discord username, and leetcode submission link at the top of the file
-    - Add an explanation for everything they tried (including what worked, what didn't work, optimizations etc)
+    - Add an explanation for everything the group tried (including what worked, what didn't work, optimizations etc)
     - The file should be formatted like this
       ```
       Solution by: YOUR FULL NAME
@@ -75,28 +75,43 @@ assigned to a member of a group will affect the group's overall score [^grading]
 [^test-cases]: You don't have to get all the testcases to submit your assignment, simply do your best
 [^grading]: We'll explain how grading works soon
 
-## Hackathons
+## How to Submit Hackathons
 
-- Create a dir `hackathons`
-- There will be 2 hackathons in this program, so create dirs `hackathons/hack1` and `hackathons/hack2`
-- For each hackathon, a team will be given a set of questions to solve
-    - Each person in the team must pick one of the problems and submit an explanation of the approach the team took (
-      including what worked, what didn't work, optimizations etc)
-    - The hackathon question a student must explain will be decided by student's number from
-      the [group page](https://docs.google.com/spreadsheets/d/115ZbiMFjQK_JwDPWpgBT3JjGaMTUgeN3wBUYteitAeM/edit?usp=sharing) %
-      number
-      of hackathon questions
-        - So, if the student is number 3 in the group and there are 5 questions in the hackathon, the student will
-          explain `3 % 5 = question 3 of the hackathon`
-    - The team will also submit one commit hash to this [form](https://bit.ly/wdsapsubmissionform). All the explanations
-      from each team member must be
-      contained in the repo at this commit hash.
+- Hackathon questions will be provided on hackerrank
+- Hackathon submissions have 2 components: a team component & an individual component
 
-You can set up hackathons via command line like so
+### Team Component
 
-```bash
-$ mkdir "hackathons" && mkdir "hackathons/hack1" && mkdir "hackathons/hack2"
-``` 
+1. The team should collaborate on all questions given in the hackathon
+2. One person in the team should submit all the solutions for a team. To put another way, each team should have just one
+   submission in the hackathon from one person. The person who does this is up to the team.
+3. Make sure you submit before the hackathon deadline
+
+### Individual Component
+
+TL;DR: Each person in the team must pick one of the problems and submit an explanation of the approach the team took (
+including what worked, what didn't work, optimizations)
+
+1. To know the question to solve, follow the following steps follow the instructions given in number 1
+   under [how to submit weekly assignments](#how-to-submit-weekly-assignments). The only different is that the set of
+   questions you're considering is the set of hackathon questions on hackerrank and the ordering of the question
+   determines the number.
+2. Assuming the question you're assigned by the formula is TwoSum and this is the first hackathon in the program, then
+   create `hackathon/hack1/two_sum.md` and add the following
+    - Add your name and discord username at the top of the file
+    - Add an explanation for everything the group tried (including what worked, what didn't work, optimizations etc)
+    - The file should be formatted like this
+      ```
+      Solution by: YOUR FULL NAME
+      Discord username: YOUR DISCORD USERNAME (as written in the student details sheet)
+      Solution: [Submission Link](HTTP://LINK TO SUBMISSION)
+         
+      ...
+      Your explanation
+      ```
+3. Follow steps 5-7, but consider the following
+   - The file in question here is `hackathon/hack1/two_sum.md`
+   - The deadline will be communicated on the hackathon page
 
 ## Project
 
