@@ -31,9 +31,7 @@ When the groups are confirmed, each person will be added to a private repo (with
       into `weekly_assignments/wk1/two_sum/two_sum.<lang_file_ext>`
     - Add an explanation for everything they tried (including what worked, what didn't work, optimizations etc)
       to `weekly_assignments/wk1/two_sum/two_sum.md`
-    - An entry will be added to `weekly_assignments/README.md` like [this](). The solver of Two Sum will add an entry to
-      the Week 1 table that includes the name of the problem (Two Sum), their name and the submission link (
-      e.g. [sample link](https://leetcode.com/problems/two-sum/submissions/1255480781/))
+    - At the end of your explanation in `weekly_assignments/wk1/two_sum/two_sum.md`, include your full name and discord username like this: Solution by: `full name`, Discord username: `discord_username`.
     - These entries will be pushed in one commit. Multiple commits are fine too.
     - Before the 6pm WAT on Friday of Week 1, the solver will submit the commit hash that contains all these files to
       this [form](https://bit.ly/wdsapsubmissionform).
