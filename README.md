@@ -74,6 +74,8 @@ These instructions make some assumptions
 9. It is the commit hash a student submits that will be used to score them. Any changes made after the commit
    hash they submitted doesn't count towards the assessment.
 
+[Demo video](https://drive.google.com/file/d/17GhljFA0cpkCJAvKxtw99lwlpM7tbZxw/view?usp=drive_link)
+
 NOTE: Although each person in a group is assigned a question every week, the expectation is that the whole group
 collaborates to think through the problem to come up with a solution. This is very important because each question
 assigned to a member of a group will affect the group's overall score [^grading].
