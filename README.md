@@ -36,6 +36,9 @@ When the groups are confirmed, each person will be added to a private repo (with
       Solution by: YOUR FULL NAME
       Discord username: YOUR DISCORD USERNAME (as written in the student details sheet)
       Solution: [Submission Link](HTTP://LINK TO SUBMISSION)
+
+      ...
+      Your explanation
       ``` 
     - These entries will be pushed in one commit. Multiple commits are fine too.
     - Before the 6pm WAT on Friday of Week 1, the solver will submit the commit hash that contains all these files to
