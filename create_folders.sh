@@ -14,3 +14,6 @@ touch "hackathons/hack1/.gitkeep" && touch "hackathons/hack2/.gitkeep"
 
 mkdir -p "project"
 touch "project/.gitkeep"
+
+git add .
+git commit -am "Setup assessment folders"
