@@ -17,3 +17,4 @@ touch "project/.gitkeep"
 
 git add .
 git commit -am "Setup assessment folders"
+git push
