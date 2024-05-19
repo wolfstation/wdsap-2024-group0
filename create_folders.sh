@@ -9,3 +9,5 @@ do
 done
 
 mkdir -p "hackathons" && mkdir "hackathons/hack1" && mkdir "hackathons/hack2"
+
+mkdir -p "project"
