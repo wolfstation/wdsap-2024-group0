@@ -7,3 +7,5 @@ do
   formatted_week=$(printf "%02d" $WK_NUM)
   mkdir -p "weekly_assignments/wk$formatted_week"
 done
+
+mkdir -p "hackathons" && mkdir "hackathons/hack1" && mkdir "hackathons/hack2"
