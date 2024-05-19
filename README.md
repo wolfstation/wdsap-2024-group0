@@ -24,15 +24,21 @@ These instructions make some assumptions
   you actually used)
 
 1. Find the question you should solve
-    - A list of questions will be provided on the announcement channel on the Wolfstation Discord server and each
-      question will have a number. Take note of the total number of questions that were sent for the week (e.g. if 7
-      questions were sent, then the number you want here is 7).
-    - Take note of your number within the group sheet that has been shared in the Discord channel
-    - <img src="resources/sn-screenshot.png" alt="Description" height="100">
-    - Your number is the "S/N" value on the row you're on
-    - The question you're solving will be `your_number % total_number_of_questions`. This would mean that if you're
-      number 1, you'll own and solve question 1. However, if in any week total_number_of_questions < group_size, the
-      formula given will ensure each person knows the question they should solve.
+    - Most groups have 6 people. Within a group, each person will own the question aligned with the “S/N” number of
+      their row in the group sheet. So, Question 1 → S/N 1, Question 2 → S/N 2 and so on. If a group has 7 people and
+      there are 6 questions, the 7th person will solve Question 1. You can view this as a table.
+        - | Group Owning S/N | Question Number |
+                  |------------------|-----------------|
+          | 1                | 1               |
+          | 2                | 2               |
+          | 3                | 3               |
+          | 4                | 4               |
+          | 5                | 5               |
+          | 6                | 6               |
+          | 7                | 1               |
+    - You can view your S/N on the group sheet
+        - <img src="resources/sn-screenshot.png" alt="Description" height="100">
+        - Your number is the "S/N" value on the row you're on
 2. Solve the question on Leetcode (or the platform link we provide) and pass as many test cases as you
    can [^test-cases]
 3. Create `weekly_assignments/wk1/two_sum/two_sum.java` and copy the code you submitted on Leetcode into it
@@ -92,8 +98,9 @@ assigned to a member of a group will affect the group's overall score [^grading]
 TL;DR: Each person in the team must pick one of the problems and submit an explanation of the approach the team took (
 including what worked, what didn't work, optimizations)
 
-1. To know the question to solve, follow the following steps follow the instructions given in number 1
-   under [how to submit weekly assignments](#how-to-submit-weekly-assignments). The only different is that the set of
+1. We'll let you know closer to the time who within a group should submit the explanation for a question, but it'll be
+   very similar to how we get the question assignments
+   under [how to submit weekly assignments](#how-to-submit-weekly-assignments). The only difference is that the set of
    questions you're considering is the set of hackathon questions on hackerrank and the ordering of the question
    determines the number.
 2. Assuming the question you're assigned by the formula is TwoSum and this is the first hackathon in the program, then
