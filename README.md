@@ -28,7 +28,7 @@ These instructions make some assumptions
       their row in the group sheet. So, Question 1 → S/N 1, Question 2 → S/N 2 and so on. If a group has 7 people and
       there are 6 questions, the 7th person will solve Question 1. You can view this as a table.
         - | Group Owning S/N | Question Number |
-          |------------------|-----------------|
+                    |------------------|-----------------|
           | 1                | 1               |
           | 2                | 2               |
           | 3                | 3               |
@@ -118,7 +118,8 @@ including what worked, what didn't work, optimizations)
       ...
       Your explanation
       ```
-3. Follow steps 5-7, but consider the following
+3. Follow steps 5-7 of [how to submit weekly assignments](#how-to-submit-weekly-assignments) , but consider the
+   following
     - The file in question here is `hackathon/hack1/two_sum.md`
     - The deadline will be communicated on the hackathon page
 
