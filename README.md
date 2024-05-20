@@ -27,15 +27,15 @@ These instructions make some assumptions
     - Most groups have 6 people. Within a group, each person will own the question aligned with the “S/N” number of
       their row in the group sheet. So, Question 1 → S/N 1, Question 2 → S/N 2 and so on. If a group has 7 people and
       there are 6 questions, the 7th person will solve Question 1. You can view this as a table.
-        - | Group Owning S/N | Question Number |
-                    |------------------|-----------------|
-          | 1                | 1               |
-          | 2                | 2               |
-          | 3                | 3               |
-          | 4                | 4               |
-          | 5                | 5               |
-          | 6                | 6               |
-          | 7                | 1               |
+    - | Group Owning S/N | Question Number |
+      |------------------|-----------------|
+      | 1                | 1               |
+      | 2                | 2               |
+      | 3                | 3               |
+      | 4                | 4               |
+      | 5                | 5               |
+      | 6                | 6               |
+      | 7                | 1               |
     - You can view your S/N on the group sheet
         - <img src="resources/sn-screenshot.png" alt="Description" height="100">
         - Your number is the "S/N" value on the row you're on
