@@ -14,6 +14,8 @@
 
 ## How to Submit Weekly Assignments
 
+NOTE: All the code changes you need to make below will be made to your group's repo, which you should have been invited to by now. If you don't yet have access, speak to a moderator.
+
 These instructions make some assumptions
 
 - they are written as though talking to a specific person
