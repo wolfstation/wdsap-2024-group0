@@ -45,13 +45,13 @@ These instructions make some assumptions
     - Note that we're in the `wk1` dir because the instructions assume we're in week 1
     - Also note that every question must have its own folder within each week. In this case we have `two_sum`
 4. Create `weekly_assignments/wk1/two_sum/two_sum.md` and add the following
-    - Add your name, discord username, and leetcode submission link at the top of the file
+    - Add your name, discord username, and leetcode submission link (**take note of the submission format**) at the top of the file
     - Add an explanation for everything the group tried (including what worked, what didn't work, optimizations etc)
     - The file should be formatted like this
       ```
       Solution by: YOUR FULL NAME
       Discord username: YOUR DISCORD USERNAME (as written in the student details sheet)
-      Solution: [Submission Link](HTTP://LINK TO SUBMISSION)
+      Solution: [Submission Link](https://leetcode.com/problems/{problem_name}/submissions/{submission_id}/)
          
       ...
       Your explanation
