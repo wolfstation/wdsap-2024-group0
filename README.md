@@ -118,7 +118,9 @@ including what worked, what didn't work, optimizations)
       Solution: [Submission Link](HTTP://LINK TO SUBMISSION)
          
       ...
-      Your explanation
+      Include the following details
+      - Your approach(es). If you had just one approach, please say that explicitly
+      - The time and space complexity of each approach
       ```
 3. Follow steps 5-7 of [how to submit weekly assignments](#how-to-submit-weekly-assignments) , but consider the
    following
