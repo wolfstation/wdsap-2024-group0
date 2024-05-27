@@ -56,7 +56,9 @@ These instructions make some assumptions
       Solution: [Submission Link](https://leetcode.com/problems/{problem_name}/submissions/{submission_id}/)
          
       ...
-      Your explanation
+      Include the following details
+      - Your approach(es). If you had just one approach, please say that explicitly
+      - The time and space complexity of each approach
       ```
 5. Push `weekly_assignments/wk1/two_sum/two_sum.java` and `weekly_assignments/wk1/two_sum/two_sum.md` to the repo in a
    commit.
