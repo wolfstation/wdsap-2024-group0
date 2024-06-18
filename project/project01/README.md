@@ -60,6 +60,10 @@ ancient treasure hidden deep within the forest, guarded by a wise old owl.
 
 **Expected Frequency:** 1
 
+### Example 4
+
+There is a sample.txt file in the current directory that you can play with.
+
 ## Constraints
 
 - File size <= 100,000 characters
