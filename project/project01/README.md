@@ -62,7 +62,12 @@ ancient treasure hidden deep within the forest, guarded by a wise old owl.
 
 ### Example 4
 
-There is a sample.txt file in the current directory that you can play with.
+**Text document:** The sample.txt file in the current directory.
+
+**Search pattern:** "as"
+
+**Expected Frequency:** "42"
+
 
 ## Constraints
 
