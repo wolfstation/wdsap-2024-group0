@@ -97,3 +97,16 @@ kevin", "landon", "leah", "leo", "liam", "lily", "logan", "lucas", "lucy", "luna
     - Errors should be intelligible (we should be able to tell what the issue is, and how to fix it)
 - Each team member must contribute substantially (i.e. commit code) to the project to partake in the full marks of their
   team.
+- Your code should be easy to build on locally for a demo
+- Apart from the code that will deliver these features, you are to write a report that details
+    - The approaches the team considered and what influenced the chosen approach
+    - The challenges faced implementing
+    - Time complexity & space complexity of each function
+- You can use any language (or combination of languages) to build your project.
+    - Some languages provide UI support, feel free to use them if they meet the needs here.
+    - You can build a UI that talks to a backend via APIs
+    - You can build within just the JS ecosystem
+    - and so on (ask if you have questions)
+    - Do not use word press (or anything similar).
+- We care about the efficiency of your solution, so the more efficient, the better. But the most important thing is to
+  solve the problem.
