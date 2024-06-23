@@ -95,8 +95,8 @@ assigned to a member of a group will affect the group's overall score [^grading]
 ### Team Component
 
 1. The team should collaborate on all questions given in the hackathon
-2. One person in the team should submit all the solutions for a team. To put another way, each team should have just one
-   submission in the hackathon from one person. The person who does this is up to the team.
+2. One person in the team should submit all the solutions for a team. To put it another way, only one
+   submission per team will be considered in the hackathon. The person who submits for the team is up to the team.
 3. Make sure you submit before the hackathon deadline
 
 ### Individual Component
