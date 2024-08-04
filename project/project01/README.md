@@ -30,7 +30,7 @@ freshly baked bread and roasted vegetables filled the air, mingling with the cri
 
 **Search pattern:** "the"
 
-**Expected Frequency:** 12
+**Expected Frequency:** 13
 
 ### Example 2
 
